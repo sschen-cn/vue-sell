@@ -1,6 +1,14 @@
 # sell
 
-> sell app
+##sell app
+> 
+> 这是慕课网上一个高仿饿了么的移动端webapp，是我学习vue框架后第一个实战项目。
+> 后台数据使用mock模拟，项目主要是前端交互的应用。
+
+
+##预览
+
+[点击预览](https://www.sschenweb.com/sell/?id=1)
 
 ## Build Setup
 
@@ -17,5 +25,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
