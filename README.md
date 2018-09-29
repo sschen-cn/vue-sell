@@ -8,7 +8,7 @@
 
 ## 预览
 
-[点击预览](https://www.sschenweb.com/sell/?id=1)
+[点击预览（移动端应用，pc端切换后刷新）](https://www.sschenweb.com/sell/?id=1)
 
 ## Build Setup
 
