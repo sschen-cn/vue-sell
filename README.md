@@ -1,12 +1,12 @@
 # sell
 
-##sell app
+## sell app
 > 
 > 这是慕课网上一个高仿饿了么的移动端webapp，是我学习vue框架后第一个实战项目。
 > 后台数据使用mock模拟，项目主要是前端交互的应用。
 
 
-##预览
+## 预览
 
 [点击预览](https://www.sschenweb.com/sell/?id=1)
 
